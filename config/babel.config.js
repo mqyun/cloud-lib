@@ -24,15 +24,6 @@ module.exports = {
     [
       'import',
       {
-        libraryName: 'cloud-xinyi',
-        libraryDirectory: 'es',
-        style: true,
-      },
-      'cloud-xinyi',
-    ],
-    [
-      'import',
-      {
         libraryName: 'antd-mobile',
         libraryDirectory: 'es',
         style: true,
